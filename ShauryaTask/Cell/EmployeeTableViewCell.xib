@@ -57,8 +57,12 @@
                     <constraint firstAttribute="trailing" secondItem="km0-ap-6Bs" secondAttribute="trailing" constant="16" id="7Cu-OC-Rby"/>
                     <constraint firstItem="Yl5-5W-1gY" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="9wy-iu-bWx"/>
                     <constraint firstItem="km0-ap-6Bs" firstAttribute="leading" secondItem="Yl5-5W-1gY" secondAttribute="trailing" constant="8" id="Ccb-Wq-Se8"/>
+                    <constraint firstItem="Yl5-5W-1gY" firstAttribute="top" relation="greaterThanOrEqual" secondItem="H2p-sc-9uM" secondAttribute="top" constant="10" id="EPu-ub-GVJ"/>
+                    <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="Yl5-5W-1gY" secondAttribute="bottom" constant="10" id="NjU-Uj-0P2"/>
                     <constraint firstItem="km0-ap-6Bs" firstAttribute="centerY" secondItem="Yl5-5W-1gY" secondAttribute="centerY" id="TUA-L5-ADx"/>
+                    <constraint firstItem="km0-ap-6Bs" firstAttribute="top" relation="greaterThanOrEqual" secondItem="H2p-sc-9uM" secondAttribute="top" constant="15" id="XK3-jH-OGt"/>
                     <constraint firstItem="Yl5-5W-1gY" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="16" id="meG-ZZ-u7S"/>
+                    <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="km0-ap-6Bs" secondAttribute="bottom" constant="15" id="zKd-OV-43l"/>
                 </constraints>
             </tableViewCellContentView>
             <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
